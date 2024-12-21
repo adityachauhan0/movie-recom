@@ -40,7 +40,7 @@ Follow these steps to set up the Movie Recommender Website locally on your machi
 ### Clone the repository
 
 ```bash
-git clone https://github.com/adityachauhan0/movie-recommender-website.git
+git clone https://github.com/adityachauhan0/movie-recom.git
 ```
 
 ### Install dependencies
@@ -48,7 +48,7 @@ git clone https://github.com/adityachauhan0/movie-recommender-website.git
 1. Navigate to the project folder:
 
 ```bash
-cd movie-recommender-website
+cd movie-recom
 ```
 
 2. Install the required Python libraries using **pip**:
