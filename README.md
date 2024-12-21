@@ -1,6 +1,3 @@
-Here's a well-structured `README.md` for your **Movie Recommender Website** project, which uses Python, Streamlit, and Pickle:
-
-```markdown
 # Movie Recommender Website
 
 Welcome to the **Movie Recommender Website**! This is an interactive web application built using **Python**, **Streamlit**, and **Pickle**. The app recommends movies based on user input and provides a personalized movie recommendation experience.
